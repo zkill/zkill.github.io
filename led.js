@@ -155,14 +155,15 @@ function hm(){
 	cls();
 	go = false;
 	
-	showWord(5, 5, 'LED BOARD DEMO', '#96ed89');
+	showWord(5, 5, 'HELLO WORLD', '#96ed89');
+	showWord(11, 19, 'LED BOARD DEMO PAGE', '#4bbf55');
 }
 
 function tmp(){
 	cls();
 	go = false;
-	showWord(5, 5, 'Test Page:', '#96ed89');
-	showWord(11, 19, 'Add Content Here...', '#45bf55');
+	showWord(5, 5, 'BLANKET:', '#96ed89');
+	showWord(11, 19, 'construction...', '#45bf55');
 }
 
 function abt(){
